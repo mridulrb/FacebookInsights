@@ -29,7 +29,7 @@ When the reader has completed this code pattern, they will understand how to:
 
 ## Flow
 
-![architecture](doc/source/images/architecture.png)
+![architecture](images/architecture.png)
 
 1. A CSV file exported from Facebook Analytics is added to Object Storage.
 1. Generated code makes the file accessible as a pandas DataFrame.
@@ -85,7 +85,7 @@ git clone https://github.com/IBM/pixiedust-facebook-analysis.git
 
 * Upon a successful project creation, you are taken to the project `Overview` tab. Take note of the `Assets` and `Settings` tabs, we'll be using them to associate our project with any external assets (datasets and notebooks) and any IBM cloud services.
 
-  ![studio-project-overview](doc/source/images/studio_project_overview.png)
+  ![studio-project-overview](images/studio_project_overview.png)
 
 ### 3. Add services to the project
 
@@ -106,7 +106,7 @@ git clone https://github.com/IBM/pixiedust-facebook-analysis.git
 
 * Select the `Overview` tab, click `Add to project +` on the top right and choose the `Notebook` asset type.
 
-  ![add_notebook.png](doc/source/images/add_notebook.png)
+  ![add_notebook.png](images/add_notebook.png)
 
 * Fill in the following information:
 
@@ -119,7 +119,7 @@ git clone https://github.com/IBM/pixiedust-facebook-analysis.git
   https://raw.githubusercontent.com/IBM/pixiedust-facebook-analysis/master/notebooks/pixiedust_facebook_analysis.ipynb
   ```
 
-  ![new_notebook](doc/source/images/new_notebook.png)
+  ![new_notebook](images/new_notebook.png)
 
 * Click the `Create notebook` button.
 
@@ -131,7 +131,7 @@ Find the notebook cell after `1.5. Add Service Credentials From IBM Cloud for Wa
 
 Set the API key and URL for each service.
 
-![add_credentials](doc/source/images/add_credentials.png)
+![add_credentials](images/add_credentials.png)
 
 > **Note**: This cell is marked as a `hidden_cell` because it will contain sensitive credentials.
 
@@ -141,7 +141,7 @@ Set the API key and URL for each service.
 
 Use `Find and Add Data` (look for the `01/00` icon) and its `Files` tab. From there you can click `browse` and add a `.csv` file from your computer.
 
-![add_file](doc/source/images/add_file.png)
+![add_file](images/add_file.png)
 
 > **Note**:  If you don't have your own data, you can use our example by cloning this git repo. Look in the `data` directory.
 
@@ -151,12 +151,12 @@ Find the notebook cell after `2.1 Load data from Object Storage`. Place your cur
 
 Using the file that you added above (under the `01/00` Files tab), use the `Insert to code` drop-down menu. Select `pandas DataFrame` from the drop-down menu.
 
-![insert_to_code](doc/source/images/insert_to_code.png)
+![insert_to_code](images/insert_to_code.png)
 
 > **Note**: This cell is marked as a `hidden_cell` because it contains
 sensitive credentials.
 
-![inserted_pandas](doc/source/images/inserted_pandas.png)
+![inserted_pandas](images/inserted_pandas.png)
 
 #### Fix-up df variable name
 
@@ -172,7 +172,7 @@ After the `df` setup, there is a cell to enter the file credentials. Place your 
 
 Use the CSV file's drop-down menu again. This time select `Insert Credentials`.
 
-![insert_file_credentials](doc/source/images/insert_file_credentials.png)
+![insert_file_credentials](images/insert_file_credentials.png)
 
 > **Note**: This cell is marked as a `hidden_cell` because it contains sensitive credentials.
 
@@ -254,19 +254,19 @@ The enriched data contains emotions, sentiment, entities, and keywords that were
 
 * A word-cloud showing the keywords sized by total impressions and using color to show the sentiment
 
-  ![keywords.png](doc/source/images/keywords.png)
+  ![keywords.png](images/keywords.png)
 
 * A pie chart showing total reach by emotion
 
-  ![emotion.png](doc/source/images/emotion.png)
+  ![emotion.png](images/emotion.png)
 
 * A stacked bar chart showing likes, shares, and comments by post sentiment
 
-  ![sentiment.png](doc/source/images/sentiment.png)
+  ![sentiment.png](mages/sentiment.png)
 
 * A bar chart with a line overlay, showing total impressions and paid impressions by mentioned entity
 
-  ![entities.png](doc/source/images/entities.png)
+  ![entities.png](images/entities.png)
 
 ## License
 
