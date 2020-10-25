@@ -262,7 +262,7 @@ The enriched data contains emotions, sentiment, entities, and keywords that were
 
 * A stacked bar chart showing likes, shares, and comments by post sentiment
 
-  ![sentiment.png](mages/sentiment.png)
+  ![sentiment.png](images/sentiment.png)
 
 * A bar chart with a line overlay, showing total impressions and paid impressions by mentioned entity
 
