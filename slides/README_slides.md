@@ -12,7 +12,8 @@ jupyter:
     name: python3
 ---
 
-<!-- +++ {"slideshow": {"slide_type": "slide"}}
+<!-- 
++++ {"slideshow": {"slide_type": "slide"}}
 
 # Tutorial slides
 
@@ -40,7 +41,8 @@ jupyter:
 - List your slide files in a markdown, with a brief description.
 
 
-+++ {"slideshow": {"slide_type": "slide"}} -->
++++ {"slideshow": {"slide_type": "slide"}} 
+-->
 
 **Details** <br />
 
