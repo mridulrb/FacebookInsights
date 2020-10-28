@@ -11,7 +11,6 @@ jupyter:
     language: python
     name: python3
 ---
-
 <!-- 
 +++ {"slideshow": {"slide_type": "slide"}}
 
@@ -73,6 +72,7 @@ Developers and those who want to learn about using Facebook Analytics data enric
 - GitHub Repository - https://github.com/mridulrb/FacebookInsights
 - Survey - http://ibm.biz/FBInsightsSurvey
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
+
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
