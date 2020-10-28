@@ -62,7 +62,7 @@ Developers and those who want to learn about using Facebook Analytics data enric
 - Mridul Bhandari, IBM Developer Advocate
 (https://www.linkedin.com/in/mridul-bhandari/)
 
-🎈Prerequisites
+🎈 Prerequisites
 1) Sign up to IBM Cloud using this link: https://ibm.biz/FaceBookInsights
 2) Register for the live event or watch the recording: https://www.crowdcast.io/e/facebook-insights
 
