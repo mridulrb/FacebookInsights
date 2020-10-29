@@ -45,10 +45,10 @@ jupyter:
 
 **Details** <br />
 
-🎓 What will you learn?
+🎓 What will you learn? <br />
 How to combine the power of a Jupyter Notebook, Cognos Dashboard Embedded, and IBM Watson™ natural language processing to glean useful marketing insight from a vast body of unstructured Facebook data.
 
-👩‍💻 Who should attend?
+👩‍💻 Who should attend? <br />
 Developers and those who want to learn about using Facebook Analytics data enriched with data from Watson APIs to answer questions such as:
 
 - What sentiment is most prevalent in the posts with the highest engagement performance?
