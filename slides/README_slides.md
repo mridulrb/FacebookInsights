@@ -73,6 +73,7 @@ Developers and those who want to learn about using Facebook Analytics data enric
 - GitHub Repository - https://github.com/mridulrb/FacebookInsights
 - Survey - http://ibm.biz/FBInsightsSurvey
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
+- Digital Developer Conference: Data & AI - https://ibm.biz/devcon-ai-meetup
 
 
 +++ {"slideshow": {"slide_type": "slide"}}
