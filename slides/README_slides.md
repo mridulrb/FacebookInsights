@@ -69,8 +69,9 @@ Developers and those who want to learn about using Facebook Analytics data enric
 2) Register for the live event or watch the recording: https://www.crowdcast.io/e/facebook-insights
 
 👩‍💻Resources
-- Hands-on - https://ibm.biz/FB_HandsOn
-- GitHub Repository - https://github.com/mridulrb/FacebookInsights
+- Event Recording - https://www.crowdcast.io/e/facebook-insights
+- IBM Cloud Sign-up - https://ibm.biz/FaceBookInsights
+- GitHub Repository - https://ibm.biz/FB_HandsOn
 - Survey - http://ibm.biz/FBInsightsSurvey
 - Meetup page: https://www.meetup.com/IBM-Cloud-MEA/events/ 
 - Digital Developer Conference: Data & AI - https://ibm.biz/devcon-ai-meetup
